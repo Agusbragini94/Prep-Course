@@ -7,7 +7,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-
+span
 }
 
 
@@ -18,7 +18,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 
 /* Ejercicio 3: */
-
+#ejercicioTres
+position: relative
 /* Acá va tu código */
 
 
